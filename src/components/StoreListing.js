@@ -38,6 +38,7 @@ function StoreListing() {
                 </Col>
             </Row>
         </Row>
+        </Container>
     </div>
   )
 }
